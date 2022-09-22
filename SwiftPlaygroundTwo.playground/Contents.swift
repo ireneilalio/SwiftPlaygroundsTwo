@@ -22,3 +22,48 @@ if gradeA == true
 }else{
     print("I'm not so sure about coding in Swift")
 }
+
+//Part 5
+//Problem set 1
+//integer variables
+var numberOne = 5
+var numberTwo = 7
+//conditional statement
+var comparison = numberOne > numberTwo
+//string
+var problemSetOne = "Five is greater than seven"
+
+if problemSetOne == "It will print Yes" {
+    //then the code block will execute
+    print ("Yes")
+    
+}else
+{
+    print ("No")
+}
+
+
+//Problem set 2
+var variableOne = "Today was hot"
+var variableTwo = "I hope it rains tomorrow"
+
+if variableOne == "I won't be happy" {
+    //then the code block will execute
+    print("Oh, No!!")
+}else
+{
+   print ("Yay rain!!")
+}
+
+//Problem set 3
+//Boolean variables
+var variableThree = false
+var variableFour = true
+
+if variableThree == false
+{
+    print("False means False")
+    
+}else{
+    print("False means True")
+}
